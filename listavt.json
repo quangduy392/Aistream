@@ -1,0 +1,140 @@
+{
+  "error": null,
+  "data": {
+    "avatars": [
+      {
+        "avatar_id": "Candace_Pink_Blazer_Front",
+        "avatar_name": "Candace in Pink Blazer (Front)",
+        "gender": "female",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/d50c1347171c4d9586d1a8b868b88d20_34520/preview_talk_1.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/d50c1347171c4d9586d1a8b868b88d20_34520/preview_video_talk_1.mp4"
+      },
+      {
+        "avatar_id": "Candace_Pink_Blazer_Right",
+        "avatar_name": "Candace in Pink Blazer (Right)",
+        "gender": "female",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/9c63740a813e4670948914a8a92df3e0_34540/preview_talk_1.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/9c63740a813e4670948914a8a92df3e0_34540/preview_video_talk_1.mp4"
+      },
+      {
+        "avatar_id": "Candace_Pink_Blazer_Left",
+        "avatar_name": "Candace in Pink Blazer  (Left)",
+        "gender": "female",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/d1aebde1aec54c11b8b1cd16c14de3db_34530/preview_talk_1.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/d1aebde1aec54c11b8b1cd16c14de3db_34530/preview_video_talk_1.mp4"
+      },
+      {
+        "avatar_id": "Chad_in_Blue_Shirt_Front",
+        "avatar_name": "Chad in Blue Shirt (Front)",
+        "gender": "male",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/575f7e5be4084f57a7d0790766b52714_34900/preview_target.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/575f7e5be4084f57a7d0790766b52714_34900/preview_video_target.mp4"
+      },
+      {
+        "avatar_id": "Chad_in_Blue_Shirt_Left",
+        "avatar_name": "Chad in Blue Shirt (Left)",
+        "gender": "male",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/06e9e5ebb60e41d58d03f9b3fff8ddd6_34910/preview_target.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/06e9e5ebb60e41d58d03f9b3fff8ddd6_34910/preview_video_target.mp4"
+      },
+      {
+        "avatar_id": "Chad_in_Blue_Shirt_Right",
+        "avatar_name": "Chad in Blue Shirt (Right)",
+        "gender": "male",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/5394a7147272444a9464b5510f9cf1a2_34920/preview_target.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/5394a7147272444a9464b5510f9cf1a2_34920/preview_video_target.mp4"
+      },
+      {
+        "avatar_id": "Francis_in_Shirt_Front",
+        "avatar_name": "Francis in Shirt (Front)",
+        "gender": "male",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/994f6d5fde7544ccb7dd22cf7640ab9d_35230/preview_target.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/994f6d5fde7544ccb7dd22cf7640ab9d_35230/preview_video_target.mp4"
+      },
+      {
+        "avatar_id": "Francis_in_Shirt_Left",
+        "avatar_name": "Francis in Shirt (Left)",
+        "gender": "male",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/4d0eac4fe3444ac48ea15f71e09ec0f0_35240/preview_target.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/4d0eac4fe3444ac48ea15f71e09ec0f0_35240/preview_video_target.mp4"
+      },
+      {
+        "avatar_id": "Francis_in_Shirt_Right",
+        "avatar_name": "Francis in Shirt (Right)",
+        "gender": "male",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/81d8cf20df564e7090b91c48a694b858_35250/preview_target.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/81d8cf20df564e7090b91c48a694b858_35250/preview_video_target.mp4"
+      },
+      {
+        "avatar_id": "Jocelyn_standing_office_front",
+        "avatar_name": "Jocelyn Office Front 2",
+        "gender": "female",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/52491deef4b242c2898192f07743d4ce_36750/preview_target.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/52491deef4b242c2898192f07743d4ce_36750/preview_video_target.mp4"
+      },
+      {
+        "avatar_id": "Jocelyn_sitting_office_front",
+        "avatar_name": "Jocelyn Office Front",
+        "gender": "female",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/ec29586b231045748569b7576aa1d6a3_36760/preview_talk_2.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/ec29586b231045748569b7576aa1d6a3_36760/preview_video_talk_2.mp4"
+      },
+      {
+        "avatar_id": "Jocelyn_standing_office_side",
+        "avatar_name": "Jocelyn Office Side 2",
+        "gender": "female",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/47f18af1b24747798d4fa32dbfa79ed9_36740/preview_target.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/47f18af1b24747798d4fa32dbfa79ed9_36740/preview_video_target.mp4"
+      },
+      {
+        "avatar_id": "Jocelyn_sitting_office_side",
+        "avatar_name": "Jocelyn Office Side",
+        "gender": "female",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/d8ff1a875fef4416bef4fa617558ed69_36770/preview_talk_1.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/d8ff1a875fef4416bef4fa617558ed69_36770/preview_video_talk_1.mp4"
+      },
+      {
+        "avatar_id": "Jocelyn_standing_sofa_front",
+        "avatar_name": "Jocelyn Sofa Front 2",
+        "gender": "female",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/24ae8e68ba1d44a3bfd928e33459a399_36680/preview_talk_4.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/24ae8e68ba1d44a3bfd928e33459a399_36680/preview_video_talk_4.mp4"
+      },
+      {
+        "avatar_id": "Jocelyn_sitting_sofa_front",
+        "avatar_name": "Jocelyn Sofa Front",
+        "gender": "female",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/3019184debd34a2e8206c441cad2289d_36670/preview_target.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/3019184debd34a2e8206c441cad2289d_36670/preview_video_target.mp4"
+      },
+      {
+        "avatar_id": "Jocelyn_standing_sofa_side",
+        "avatar_name": "Jocelyn Sofa Side 2",
+        "gender": "female",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/b44135a6206e4e58b913c5e090a39597_36690/preview_talk_3.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/b44135a6206e4e58b913c5e090a39597_36690/preview_video_talk_3.mp4"
+      },
+      {
+        "avatar_id": "Jocelyn_sitting_sofa_side",
+        "avatar_name": "Jocelyn Sofa Side",
+        "gender": "female",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/56f4c5e2157d47578ad209a08d4c0324_36660/preview_talk_1.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/56f4c5e2157d47578ad209a08d4c0324_36660/preview_video_talk_1.mp4"
+      },
+      {
+        "avatar_id": "Jeff-inTshirt-20220722",
+        "avatar_name": "Jeff in T-shirt",
+        "gender": "male",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/a43b84ae994d4776a64aba7dc40ad9c9_1126/preview_talk_10.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/a43b84ae994d4776a64aba7dc40ad9c9_1126/preview_video_talk_10.mp4"
+      },
+      {
+        "avatar_id": "Kayla-inturtleneck-20220818",
+        "avatar_name": "Kayla in Turtleneck",
+        "gender": "female",
+        "preview_image_url": "https://files2.heygen.ai/avatar/v3/bf83f0f830794d90b509ba6524962e05_1079/preview_talk_9.webp",
+        "preview_video_url": "https://files2.heygen.ai/avatar/v3/bf83f0f830794d90b509ba6524962e05_1079/preview_video_talk_9.mp4"
+      }
+    ]
+  }
+}
